@@ -184,6 +184,11 @@ margin-top: -300px;
 
 }
 
+#dark-bg-colour {
+	background-color: #000000;
+	padding: 10px;
+}
+
 .para-img-2 {
   background-image: url("./images/blade_runner_eye.jpg");
 
