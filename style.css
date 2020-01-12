@@ -187,6 +187,8 @@ margin-top: -300px;
 #dark-bg-colour {
 	background-color: #000000;
 	padding: 10px;
+	max-width: 50em;
+	
 }
 
 .para-img-2 {
@@ -196,7 +198,7 @@ margin-top: -300px;
 }
 
 .para-img-3 {
-  background-image: url("./images/blade_runner_pris_batty.jpg");
+  background-image: url("./images/mj-duke-hidden.jpg");
 
 
 }
