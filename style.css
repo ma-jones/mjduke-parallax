@@ -142,7 +142,7 @@ img{
 }
 
 .up{
-margin-top: -300px;
+margin-top: -250px;
 }
 
 .img-thumbnail{
@@ -412,24 +412,25 @@ h2
 @media only screen and (max-width : 480px) {
 
 .para-img-1, .para-img-2, .para-img-3, .para-img-4, .para-img-5, .para-img-6 {
-
-	/*position: relative;
-  opacity: 0.65;
-  background-attachment: fixed;
-  background-position: 50% 50%;
-  background-repeat: no-repeat;*/
-  background-size: 400px 300px;
-  /*color: #f7f7f7;
-  text-align: center;
-  padding: 300px 0 0 0;
+  background-attachment: scroll;
+  background-size: 400px;
   letter-spacing: 5px;
-  min-height: 600px;
-  width: 100%;*/
+  min-height: 405px;
 	
 }
 
-
+.dark-bg-colour{
 	
+}
+
+.up {
+	margin-top: -130px;
+}
+
+h4{
+	margin-top: 10px;
+}
+
 header {
 	height: auto;
 }
