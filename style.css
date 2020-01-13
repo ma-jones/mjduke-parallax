@@ -167,7 +167,7 @@ margin-top: -300px;
   position: relative;
   opacity: 0.65;
   background-attachment: fixed;
-  background-position: center;
+  background-position: 50% 50%;
   background-repeat: no-repeat;
   background-size: cover;
   color: #f7f7f7;
@@ -175,7 +175,7 @@ margin-top: -300px;
   padding: 300px 0 0 0;
   letter-spacing: 5px;
   min-height: 600px;
-  /*width: 100%;*/
+	width: 100%;
 
 }
 .para-img-1 {
