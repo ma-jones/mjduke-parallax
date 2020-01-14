@@ -6,8 +6,16 @@ body {
   background-color: #282E34;
 }
 
-
 /*-----------------------*/
+
+.carousel-inner > .item > a > img, .carousel-inner > .item > img, .img-responsive, .thumbnail a > img, .thumbnail > img {
+	width: 100%;
+}
+
+.carousel-caption {
+	text-align: left;
+	margin-bottom: 0%;
+}
 
 .nav.navbar-nav {
 	display: inline;
@@ -109,6 +117,7 @@ a {
 	font-size: 1em;
 	text-decoration: none;
 	font-family: 'Anton', sans-serif;
+
 	
 }
 
@@ -117,7 +126,8 @@ h3 {
   text-transform: uppercase;
   color: #111;
   font-family: 'Orbitron', sans-serif;
-
+  text-align: left;
+  background-color: #f9f9f9;
 }
 
 h4 {
@@ -140,7 +150,7 @@ img{
 }
 
 .up{
-margin-top: -250px;
+margin-top: -300px;
 }
 
 .img-thumbnail{
@@ -349,6 +359,9 @@ img{
 	background-color: #282E34;
 }
 
+.up {
+	margin-top: -100px;
+}
 	
 .logo {
 		width:300px;
@@ -368,7 +381,11 @@ img{
 li h2 {
     font-size: 0.8em;
     padding: 1px;
-}		
+}
+
+.up {
+	margin-top: -100px;
+}
 		
 	
 .caption {
@@ -418,12 +435,9 @@ h2
 	
 }
 
-.dark-bg-colour{
-	
-}
 
 .up {
-	margin-top: -130px;
+	margin-top: -100px;
 }
 
 h4{
