@@ -3,7 +3,8 @@
 
 
 body {
-  background-color: #282E34;
+  background-color: #111;
+  font-family: 'Staatliches', cursive;
 }
 
 /*-----------------------*/
@@ -21,8 +22,20 @@ body {
 	display: inline;
 	justify-content: center;
 	top:0:
-	
+}
 
+.navbar > .container .navbar-brand, .navbar > .container-fluid .navbar-brand {
+    margin-left: -15px;
+    margin-top: -5px;
+}
+
+.navbar-inverse {
+    background-color: #000;
+}
+
+.navbar-inverse .navbar-nav > .active > a, .navbar-inverse .navbar-nav > .active > a:focus, .navbar-inverse .navbar-nav > .active > a:hover {
+
+background-color:#bf1f24;
 }
 
 .navbar-toggle {
@@ -69,7 +82,10 @@ a {
 
 /*---------------------------*/
 
-
+.navbar-inverse .navbar-nav > li > a {
+    color: 
+    #9d9d9d;
+}
 
 ul {
 	margin: 0;
@@ -79,20 +95,22 @@ ul {
 
 p {
 	color: #FFFFFF;
-	font-family: 'Orbitron', sans-serif;
+	/*font-family: 'Orbitron', sans-serif;*/
+	/*font-family: 'Staatliches', cursive;*/
 	letter-spacing: 1px;
 	font-size: 0.9em;
 	margin-bottom: .5em;
 	line-height: 30px;
-	text-transform: uppercase;
+	/*text-transform: uppercase;
 	font-stretch: extra-expanded;
-	text-shadow: 0 0 10px #A4C9BA, 0 0 2px #A4C9BA, 0 0 3px #A4C9BA, 0 0 4px #A4C9BA, 0 0 7px #A4C9BA, 0 0 8px #A4C9BA, 0 0 100px #A4C9BA, 0 0 15px #A4C9BA;
+	text-shadow: 0 0 10px #A4C9BA, 0 0 2px #A4C9BA, 0 0 3px #A4C9BA, 0 0 4px #A4C9BA, 0 0 7px #A4C9BA, 0 0 8px #A4C9BA, 0 0 100px #A4C9BA, 0 0 15px #A4C9BA;*/
 }
 
 
 .h1, h1 {
 	font-size: 3.2em;
-	font-family: 'Orbitron', sans-serif;
+	/*font-family: 'Anonymous Pro', monospace;
+	font-family: 'Staatliches', cursive;*/
 	color: rgba(255, 255, 255, 1)
 }
 
@@ -116,7 +134,7 @@ h3,
 a {
 	font-size: 1em;
 	text-decoration: none;
-	font-family: 'Anton', sans-serif;
+	/*font-family: 'Anton', sans-serif;*/
 
 	
 }
@@ -125,7 +143,7 @@ h3 {
   letter-spacing: 5px;
   text-transform: uppercase;
   color: #111;
-  font-family: 'Orbitron', sans-serif;
+  /*font-family: 'Orbitron', sans-serif;*/
   text-align: left;
   background-color: #f9f9f9;
 }
@@ -133,7 +151,7 @@ h3 {
 h4 {
 	color: #FFFFFF;
 	font-size: 2.2em;
-	font-family: 'Orbitron', sans-serif;
+	/*font-family: 'Orbitron', sans-serif;*/
 	text-transform: uppercase;
 }
 
@@ -197,26 +215,26 @@ margin-top: -300px;
 }
 
 #dark-bg-colour {
-	background-color: #000000;
+	/*background-color: #000000;*/
 	padding: 10px;
 	max-width: 50em;
 	
 }
 
 .para-img-2 {
-  background-image: url("./images/mj-duke-face.jpg");
+  background-image: url("./images/mj-duke-multi.png");
 
 
 }
 
 .para-img-3 {
-  background-image: url("./images/mj-duke-hidden.jpg");
+  background-image: url("./images/mj-duke-multi-col-head.png");
 
 
 }
 
 .para-img-4 {
-  background-image: url("./images/blade_runner_screen.jpg");
+  background-image: url("./images/mj-duke-multi-col.png");
 
 
 }
@@ -231,6 +249,12 @@ margin-top: -300px;
   background-image: url("./images/blade_runner_rachael_deckard.jpg");
 
   
+}
+
+#mc_embed_signup {
+	background-color: #000;
+    clear: left;
+    font: 14px Helvetica,Arial,sans-serif;
 }
 
 
@@ -402,7 +426,8 @@ li h2 {
 P {
 	font-size: .8em;
 	letter-spacing: .8px;
-	font-family: 'Carme', sans-serif;
+	/*font-family: 'Carme', sans-serif;*/
+	/*font-family: 'Staatliches', cursive;*/
 	line-height: 30px;
 	text-transform: uppercase;
 	font-stretch: none;

@@ -1,12 +1,10 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
-<svg width="100%" height="100%" viewBox="0 0 512 229" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2;">
-    <g transform="matrix(1,0,0,1,-48.5072,-7.90521)">
-        <g transform="matrix(0.649632,0,0,0.649632,-31.2624,-87.8821)">
-            <text x="120px" y="320px" style="font-family:'STLibianTC-Regular', 'Libian TC';font-size:279.209px;fill:rgb(202,0,0);">MJ</text>
-        </g>
-        <g transform="matrix(0.93988,0,0,0.93988,-36.5163,-231.599)">
-            <text x="200px" y="500px" style="font-family:'STLibianSC-Regular', 'Libian SC';font-size:195.446px;fill:rgb(204,0,0);">DUKE</text>
-        </g>
+<svg width="100%" height="100%" viewBox="0 0 600 250" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2;">
+    <g transform="matrix(0.649632,0,0,0.649632,-5.39728,-83.8821)">
+        <text x="120px" y="320px" style="font-family:'YAYUSA', 'YAY USA';font-size:279.209px;fill:rgb(202,0,0);">MJ</text>
+    </g>
+    <g transform="matrix(0.93988,0,0,0.93988,-23.6946,-225.333)">
+        <text x="200px" y="500px" style="font-family:'YAYUSA', 'YAY USA';font-size:195.446px;fill:rgb(204,0,0);">DUKE</text>
     </g>
 </svg>
