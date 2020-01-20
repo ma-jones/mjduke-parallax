@@ -183,6 +183,10 @@ img{
 	padding: 0px;
 }
 
+.light-colour {
+	color: #919292;
+}
+
 .up{
 margin-top: -300px;
 }
@@ -197,6 +201,7 @@ margin-top: -300px;
 .col-md-1, .col-md-10, .col-md-11, .col-md-12, .col-md-2, .col-md-3, .col-md-4, .col-md-5, .col-md-6, .col-md-7, .col-md-8, .col-md-9 {
     margin-top: 20px;
 }
+
 
 .back-to-top {
     cursor: pointer;
@@ -264,12 +269,9 @@ margin-top: -300px;
 }
 
 
-#mc_embed_signup {
-	background-color: #000;
-    clear: left;
-    font: 14px Helvetica,Arial,sans-serif;
+#mc_embed_signup form {
+    background-color:  black;
 }
-
 
 /*==========  Mobile First Method  ==========*/
 
