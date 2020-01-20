@@ -146,22 +146,6 @@ p {
 	color: rgba(255, 255, 255, 1)
 }
 
-
-h2
-{
-
-	color: #D22F2B;
-	border: 1px solid;
-
-}
-
-li h2 {
-	
-	font-size: 1.5em;
-	padding: 5px;
-	margin-top: 10%;
-}
-
 h3,
 a {
 	font-size: 1em;
@@ -268,7 +252,7 @@ margin-top: -300px;
 }
 
 .para-img-3 {
-  background-image: url("./images/mj-duke-multi-col-head.png");
+  background-image: url("./images/mj-duke-video.jpg");
 
 
 }
@@ -279,17 +263,6 @@ margin-top: -300px;
 
 }
 
-.para-img-5 {
-  background-image: url("./images/blade_runner_hang.jpg");
-
-
-}
-
-.para-img-6 {
-  background-image: url("./images/blade_runner_rachael_deckard.jpg");
-
-  
-}
 
 #mc_embed_signup {
 	background-color: #000;
