@@ -273,6 +273,10 @@ margin-top: -300px;
     background-color:  black;
 }
 
+#mc_embed_signup .mc-field-group label {
+    color:  white;
+}
+
 /*==========  Mobile First Method  ==========*/
 
 /* Custom, iPhone Retina */ 
@@ -322,10 +326,10 @@ margin-top: -300px;
 @media only screen and (min-width : 1500px) {
 	
 body {
- max-width: 1800px;
+ /*ax-width: 1800px;*/
  background-color: #283036;
     margin: auto;
-    width: 60%;
+    /*width: 60%;*/
 
  }
  
