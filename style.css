@@ -194,7 +194,7 @@ img{
 }
 
 .up{
-margin-top: -300px;
+margin-top: -520px;
 }
 
 .img-thumbnail{
@@ -394,6 +394,9 @@ body {
 /* Large Devices, Wide Screens */
 @media only screen and (max-width : 1200px) {
 	
+	.up{
+		margin-top: -400px;
+	}
 
 }
 
@@ -415,6 +418,8 @@ img{
 	text-align: center;
 }
 
+
+
 }
 
 
@@ -427,7 +432,7 @@ img{
 }
 
 .up {
-	margin-top: -100px;
+	margin-top: -400px;
 }
 	
 .logo {
@@ -451,7 +456,7 @@ li h2 {
 }
 
 .up {
-	margin-top: -100px;
+	margin-top: -300px;
 }
 		
 	
@@ -505,7 +510,7 @@ h2
 
 
 .up {
-	margin-top: -100px;
+	margin-top: -275px;
 }
 
 h4{
